@@ -11,3 +11,13 @@ So, as a mobile developer, it is important for us to integrate some kind of inte
 
 To build this project, create a project with the package name "com.faruk.mlkitsample" from firebase developer console.
 Then download the "google-services.json" file and add to the project directory under /app/ folder.
+
+Feature includes this project:
+
+1. Text recognition
+2. Face detection
+3. Barcode Scanning
+4. Image Labeling
+5. Landmark Recognition
+6. Language Identification
+7. Smart reply
