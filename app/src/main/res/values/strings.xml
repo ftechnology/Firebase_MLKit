@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Firebase MLKit</string>
+
+    <string name="firebase_ml_kit">Firebase ML Kit</string>
+    <string name="text_recognition">Text Recognition</string>
+    <string name="face_detection">Face Detection</string>
+    <string name="barcode_scanning">Barcode Scanning</string>
+    <string name="image_labeling">Image Labeling</string>
+    <string name="landmark_recognition">Landmark Recognition</string>
+    <string name="language_identification">Language Identification</string>
+    <string name="smart_reply">Smart Reply</string>
+    <string name="custom_models">Custom Models</string>
+
+    <string name="image_picker_dialog_title">Select an image</string>
+    <string name="image_picker_dialog_message">Select an image using the</string>
+    <string name="image_picker_dialog_button_camera">Camera</string>
+    <string name="image_picker_dialog_button_gallery">Gallery</string>
+</resources>
